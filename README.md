@@ -7,3 +7,6 @@ Daha Bot owner Yerini bilmiyolar aq
 
 
 ![image](https://github.com/kairos3152/kairos-v13-bots/assets/134141367/185d3425-90a2-45b5-91b1-60065fa73571)
+
+
+Bak Kardeşim Bot Owner Yeri İÇİN globel Dosyasını Açıcaksın Ondan sonra Database Yi Acıcan Orda Schemas Var onu Da aç orda guild.settings. İçin E gir Orda en alt da Staff Var orda ID ler var orospu çocuxu oraya gircen ID ni annanı sikiyim
